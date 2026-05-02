@@ -5,7 +5,8 @@
 
 
 #  <p align="center"> 🕸️ [Distributed Systems]() / [Project](): [MCP Smart Incident Analyzer]()
-### <p align="center"> Comunicação Distribuída para IA com MCP (Model Context Protocol)
+### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol
+
 
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
@@ -52,15 +53,8 @@
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
 **Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
-**Authors**:**  [Fabiana Campanari]() e [Perdro Vyctor Almeida]().  <br>
+**Authors**:**  [Fabiana ⚡️ Campanari]() e [Perdro Vyctor Almeida]().  <br>
 
-
-
-Institution: Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)
-School: FACEI – Faculty of Interdisciplinary Studies
-Course Repo: DISTRIBUTED SYSTEMS 
-Professor: ⭐️ Carlos Eduardo Paes
-Extensionist Activities: Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
 <br><br>
 
