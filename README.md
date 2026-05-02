@@ -11,11 +11,6 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
-Institution: Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)
-School: FACEI – Faculty of Interdisciplinary Studies
-Course Repo: DISTRIBUTED SYSTEMS 
-Professor: ⭐️ Carlos Eduardo Paes
-Extensionist Activities: Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
 <!-- ========= START SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
@@ -49,3 +44,48 @@ Extensionist Activities: Extension projects and workshops using open‑source so
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+<!-- ======================================= Start nstitucional INFO ===========================================  -->
+
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
+**Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
+**Authors**:**  [Fabiana Campanari]() e [Perdro Vyctor Almeida]().  <br>
+
+
+
+Institution: Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)
+School: FACEI – Faculty of Interdisciplinary Studies
+Course Repo: DISTRIBUTED SYSTEMS 
+Professor: ⭐️ Carlos Eduardo Paes
+Extensionist Activities: Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
+
+<br><br>
+
+<!-- ========= END Institucional INFO ========= -->
+
+
+<br><br>
+
+
+
+<!-- ========= START Confidentiality statement ========= -->
+
+> [!NOTE]
+> 
+> ⚠️ Heads Up
+>
+> * Projects may be made [publicly available]() whenever possible  
+> * Focus on **hands-on experience** with real datasets  
+> * Activities follow [**PUC-SP academic and ethical guidelines**]()  
+> * Restricted content remains **confidential**  
+> <br>
+
+<br><br><br><br>
+<!-- ========= End Confidentiality statement ========= -->
+
+
+
+<!-- ========= START BADGES ========= -->
