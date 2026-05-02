@@ -101,3 +101,14 @@ Extensionist Activities: Extension projects and workshops using open‑source so
 </p>
 <br><br><br><br>
 <!-- ========= END START BADGES ========= -->
+
+
+<!-- ========= START Repo TIP ========= -->
+> [!TIP]
+> ### 🚀 AI Resources
+>
+> High-signal links for learning, building, and understanding modern AI systems.
+>
+> **📘 Core Reading**
+> - [*Inteligência Artificia A Modern Approachl (Peter Norvig, Stuart Russell) *]()
+>
