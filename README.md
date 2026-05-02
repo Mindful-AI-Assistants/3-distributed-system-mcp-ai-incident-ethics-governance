@@ -89,3 +89,16 @@ Extensionist Activities: Extension projects and workshops using open‑source so
 
 
 <!-- ========= START BADGES ========= -->
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-3.10+-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/arquitetura-distribuída-0d9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/protocolo-MCP-2dd4bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/foco-AI%20Incident%20Analysis-115e59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/documentação-README%20Mestre-14b8a6?style=for-the-badge" />
+</p>
+
+<br><br><br><br>
+<!-- ========= END START BADGES ========= -->
