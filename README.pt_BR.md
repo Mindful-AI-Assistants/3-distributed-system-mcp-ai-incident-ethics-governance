@@ -58,13 +58,7 @@
 
 
 
-Institution: Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)
-School: FACEI – Faculty of Interdisciplinary Studies
-Course Repo: DISTRIBUTED SYSTEMS 
-Professor: ⭐️ Carlos Eduardo Paes
-Extensionist Activities: Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
-<br><br>
 
 <!-- ========= END Institucional INFO ========= -->
 
@@ -142,13 +136,6 @@ Extensionist Activities: Extension projects and workshops using open‑source so
 O **MCP Smart Incident Analyzer** é um projeto de arquitetura distribuída voltado à análise inteligente de incidentes relacionados a sistemas de **IA (Inteligência Artificial)**. O núcleo da proposta é o uso de **MCP (Model Context Protocol)** como base para comunicação estruturada entre componentes, agentes e serviços especializados.
 
 Na prática, o sistema foi concebido para receber eventos, ocorrências, falhas, desvios ou comportamentos inesperados em ambientes baseados em IA, organizar esse material como contexto analítico e encaminhá-lo para módulos especializados de interpretação. O objetivo é transformar incidentes complexos em casos rastreáveis, explicáveis, documentáveis e auditáveis.
-
-Este README-mestre foi projetado para cumprir quatro funções ao mesmo tempo:
-
-1. **Documentação técnica** — explica arquitetura, lógica, componentes e funcionamento.
-2. **Base para relatório acadêmico** — organiza a fundamentação técnica de forma aproveitável em texto formal.
-3. **Base para apresentação** — cada seção pode ser convertida em um ou mais slides.
-4. **README principal de GitHub** — centraliza a visão institucional e técnica do projeto.
 
 
 <br><br>
