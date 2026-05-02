@@ -53,7 +53,7 @@
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
 **Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
-**Authors**:**  [Fabiana ⚡️ Campanari]() e [Perdro Vyctor Almeida]().  <br>
+**Authors**:**  [Fabiana ⚡️ Campanari]() e [Perdro Vyctor Almeida]()  <br>
 
 
 <br><br>
