@@ -195,7 +195,41 @@ In practice, the system was designed to receive events, occurrences, failures, d
 <br><br>
 
 
+## MCP Incident Pipeline · Architecture Overview
 
+<br><br>
+
+ 
+```mermaid
+flowchart TB
+
+    classDef base fill:transparent,stroke:#2dd4bf,color:#e5e7eb,stroke-width:1.2px;
+    classDef strong fill:transparent,stroke:#2dd4bf,color:#ffffff,stroke-width:2px;
+    classDef faint fill:transparent,stroke:#2dd4bf,color:#94a3b8,stroke-dasharray:3 3;
+
+    A["Prepare environment\nvirtualenv + requirements"]:::base
+    B["Start MCP server\nserver/server.py"]:::base
+    C["Run tests\npytest tests/"]:::faint
+    D["Start MCP client\nclient/client.py"]:::base
+
+    E["Send incident"]:::faint
+
+    F["Orchestrator"]:::strong
+    G["MCP Servers\ncontext | classification | history"]:::base
+
+    H["Analytical processing"]:::strong
+
+    I["CLI"]:::base
+    J["Logs"]:::base
+    K["Dashboards"]:::base
+    L["Report"]:::base
+
+    A --> B --> C --> D --> E --> F --> G --> H
+    H --> I
+    H --> J
+    H --> K
+    H --> L
+```
 
 
 
