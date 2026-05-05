@@ -12,8 +12,10 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
+
+<!-- ========= START MAIN BADGE ========= -->
 <!-- ========= START MAIN PRESENTATION (REACT) ========= -->
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href="https://stalwart-rolypoly-b74468.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/React%20Interactive-MCP%20Smart%20Incident%20Analyzer%20Presentation-0f172a?style=for-the-badge&logo=react&logoColor=white" 
@@ -23,22 +25,15 @@
   </a>
 </p>
 
-<!-- subtle divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%20-%20-0f172a?style=flat-square" style="height: 6px; width: 120px; opacity: 0.25;" />
-</p>
-
 <!-- ========= START SECONDARY BADGES ========= -->
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href="https://docs.google.com/presentation/d/1CeNA6D3Va2X8nc0dVeD1BKxV97d1SI-v/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/PPTX-Strategic%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
       alt="PPTX Strategic Presentation"
       style="height: 32px; width: auto; margin-right: 8px;"
     />
-  </a>
-
-  <a href="https://github.com/Quantum-Software-Development/4-cybersecurity-social-engineering-project-ai-risk-intelligence-financial-incidents-analytics/blob/5f4ae57543d61147d765d707852d85f616c09f1b/Data%20Analysing%20Report/%F0%9F%87%AC%F0%9F%87%A7data_analysis_report_abnt%20.pdf" target="_blank" rel="noopener noreferrer">
+  </a><a href="https://github.com/Quantum-Software-Development/4-cybersecurity-social-engineering-project-ai-risk-intelligence-financial-incidents-analytics/blob/5f4ae57543d61147d765d707852d85f616c09f1b/Data%20Analysing%20Report/%F0%9F%87%AC%F0%9F%87%A7data_analysis_report_abnt%20.pdf" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Data%20Analysing-Executive%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
       alt="Data Analysing Executive Report"
@@ -46,9 +41,8 @@
     />
   </a>
 </p>
+<!-- ========= END BADGES ========= -->
 
-<br>
-<!-- ========= END SECONDARY BADGES ========= -->
 
 <br><br><br><br>
 <!-- ========= END BADGE ========= -->
