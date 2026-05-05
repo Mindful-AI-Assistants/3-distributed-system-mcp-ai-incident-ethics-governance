@@ -197,82 +197,11 @@ Na prática, o sistema foi concebido para receber eventos, ocorrências, falhas,
 <br><br>
 
 
-<!--
 
-### 11.3 Etapa 2 – Subir o servidor MCP
 
-O servidor MCP é responsável por expor os métodos que serão consumidos pelo cliente para realizar a análise distribuída de incidentes.
+<!-- ### 11.9  -->
 
-```bash
-# Dentro da raiz do projeto
-python server/server.py
-```
-
-Verifique no terminal se o servidor iniciou corretamente (porta e logs básicos de inicialização).
-
-### 11.4 Etapa 3 – Rodar testes de conectividade
-
-Antes de usar o sistema, recomenda-se rodar os testes automatizados para validar a comunicação básica entre client e server.
-
-```bash
-pytest tests/
-```
-
-Se os testes falharem, corrija a configuração ou o código antes de avançar.
-
-### 11.5 Etapa 4 – Interagir com o cliente MCP
-
-O cliente MCP é o entrypoint interativo para enviar incidentes e acionar o fluxo distribuído.
-
-Em um novo terminal (mantendo o servidor rodando):
-
-```bash
-cd mcp-smart-incident-analyzer
-source .venv/bin/activate  # se necessário
-python client/client.py
-```
-
-A partir do menu/CLI, você poderá:
-
-- enviar um incidente de exemplo;
-- listar capacidades do servidor;
-- inspecionar respostas e metadados retornados pelo protocolo MCP.
-
-### 11.6 Etapa 5 – Fluxo distribuído de análise de incidentes
-
-Quando um incidente é enviado pelo cliente MCP, o pipeline lógico segue esta sequência:
-
-1. **Entrada**: o usuário descreve o incidente (texto, metadados, parâmetros).
-2. **Orquestração**: o orquestrador estrutura o caso em um contexto padronizado.
-3. **Distribuição via MCP**:
-   - servidor de contexto: enriquece a descrição;
-   - servidor de classificação: avalia severidade/tipo;
-   - servidor de histórico: busca incidentes semelhantes.
-4. **Consolidação**: a camada analítica combina as respostas.
-5. **Saída**: o resultado final é apresentado de forma explicável (resumo, classificação, histórico correlato).
-
-### 11.7 Etapa 6 – Interpretação da saída
-
-Após o processamento, o usuário pode:
-
-- analisar a classificação do incidente;
-- entender por que aquela classificação foi atribuída (contexto + explicações);
-- observar histórico de casos relacionados;
-- reutilizar a saída em dashboards, relatórios ou apresentações.
-
-### 11.8 Etapa 7 – Pipeline de documentação e apresentação
-
-O próprio README-mestre funciona como base para:
-
-- **relatório acadêmico** (seções podem ser copiadas/refinadas);
-- **apresentação em slides HTML** (cada seção vira 1 ou mais slides);
-- **documentação técnica no GitHub** (ponto único de verdade).
-
----
-
-### 11.9  -->
-
-## [MCP INCIDENT PIPELINE · ARCHITECTURE OVERVIE]()
+## [MCP Incident Pipeline · Architecture Overview]()
 
 <br>
 
