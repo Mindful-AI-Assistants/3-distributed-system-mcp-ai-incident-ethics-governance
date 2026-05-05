@@ -102,20 +102,6 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 
 
-<!-- ========= START BADGES ========= -->
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in%20development-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/python-3.10+-14b8a6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/architecture-distributed-0d9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/protocol-MCP-2dd4bf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/focus-AI%20Incident%20Analysis-115e59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/documentation-Master%20README-14b8a6?style=for-the-badge" />
-</p>
-<br><br><br><br>
-<!-- ========= END START BADGES ========= -->
-
 
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
