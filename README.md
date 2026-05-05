@@ -11,41 +11,11 @@
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
 
+<!-- ======================================= Start nstitucional INFO ===========================================  -->
+
 
 <!-- ========= START SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-<br><br>
-<!-- ========= END SPONSORTBADGE ========= -->
-
-
-
-<!-- =========  START PUC HEADER GIF ========= -->
-
-
-<br><br>
-<!-- ========= END SPONSORT BADGE ========= -->
-
-
-<!-- =========  START PUC HEADER GIF ========= -->
-
-<p align="center">
-   <img src="
-
-
-<br><br>
-<!-- =========  END PUC HEADER GIF ========= -->
-
-
-<!-- ========= START Institucional INFO ========= -->
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<!-- ======================================= Start nstitucional INFO ===========================================  -->
-
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
@@ -62,6 +32,58 @@
 <br><br>
 
 
+
+
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br><br>
+<!-- ========= END SPONSORTBADGE ========= -->
+
+
+
+
+<p align="center">
+
+<!-- =========  START PUC HEADER GIF ========= -->
+
+
+<br><br>
+<!-- ========= END SPONSORT BADGE ========= -->
+
+
+<!-- =========  START DEMO VIDEO ========= -->
+https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
+
+#####  Habanera - Remix
+
+#### 🎶 Habanera
+
+#### **Original Title:** *L’amour est un oiseau rebelle*
+#### **Source:** Aria from the opera *Carmen*
+#### **Significance:** Among the most iconic and enduring pieces in operatic history
+
+> 🎶 *“L’amour est un oiseau rebelle que nul ne peut apprivoiser.”*
+
+#
+
+<p align="right">
+<sub><em>curated edit · Fabi</em></sub>
+</p>
+
+
+<br><br>
+<!-- =========  END PUC DENO VIDEO ========= -->
+
+
+<!-- ========= START Institucional INFO ========= -->
+
+
+
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 <!-- ========= START Confidentiality statement ========= -->
 
