@@ -52,15 +52,22 @@
 <!-- =========  START DEMO VIDEO ========= -->
 https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
-##### 🎶 Habanera - Remix
+#####  Habanera - Remix
 
-**Original Title:** *L’amour est un oiseau rebelle*
-**Source:** Aria from the opera *Carmen*
-**Significance:** Widely regarded as one of the most iconic and recognizable pieces in operatic history
+#### 🎶 Habanera
 
-> *“L’amour est un oiseau rebelle que nul ne peut apprivoiser.”*
-> — A timeless reflection on the untamable nature of love
-***Carmen Remix  by Fabi***  🖤
+#### **Original Title:** *L’amour est un oiseau rebelle*
+#### **Source:** Aria from the opera *Carmen*
+#### **Significance:** Among the most iconic and enduring pieces in operatic history
+
+> 🎶 *“L’amour est un oiseau rebelle que nul ne peut apprivoiser.”*
+
+#
+
+<p align="right">
+<sub><em>curated edit · Fabi</em></sub>
+</p>
+
 
 <br><br>
 <!-- =========  END PUC DENO VIDEO ========= -->
