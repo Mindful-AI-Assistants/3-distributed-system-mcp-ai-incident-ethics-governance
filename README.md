@@ -11,6 +11,24 @@
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
 
+<!-- ======================================= Start nstitucional INFO ===========================================  -->
+
+
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
+**Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
+[**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
+
+
+<br><br>
+
+<!-- ========= END Institucional INFO ========= -->
+
+
+<br><br>
+
+
 
 
 <!-- ========= START SPONSORT BADGE ========= -->
@@ -31,9 +49,7 @@
 <!-- ========= END SPONSORT BADGE ========= -->
 
 
-<!-- =========  START PUC HEADER GIF ========= -->
-
-
+<!-- =========  START DEMO VIDEO ========= -->
 https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 ##### 🎶 Habanera - Remix
@@ -47,7 +63,7 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 ***Carmen Remix  by Fabi***  🖤
 
 <br><br>
-<!-- =========  END PUC HEADER GIF ========= -->
+<!-- =========  END PUC DENO VIDEO ========= -->
 
 
 <!-- ========= START Institucional INFO ========= -->
@@ -55,25 +71,6 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<!-- ======================================= Start nstitucional INFO ===========================================  -->
-
-
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
-**Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
-[**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
-
-
-<br><br>
-
-<!-- ========= END Institucional INFO ========= -->
-
-
-<br><br>
-
-
 
 <!-- ========= START Confidentiality statement ========= -->
 
