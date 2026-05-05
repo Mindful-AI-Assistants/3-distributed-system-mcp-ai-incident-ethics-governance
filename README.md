@@ -14,6 +14,9 @@
 <!-- ======================================= Start nstitucional INFO ===========================================  -->
 
 
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
@@ -41,6 +44,9 @@
 <!-- ========= END SPONSORTBADGE ========= -->
 
 
+
+
+<p align="center">
 
 <!-- =========  START PUC HEADER GIF ========= -->
 
