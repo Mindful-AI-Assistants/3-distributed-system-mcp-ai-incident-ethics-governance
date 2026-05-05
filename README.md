@@ -32,7 +32,7 @@
 <!-- =========  START PUC HEADER GIF ========= -->
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+   <img src="https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709">
  </p>
 
 
