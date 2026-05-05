@@ -14,7 +14,6 @@
 
 
 <!-- ========= START MAIN BADGE ========= -->
-<!-- ========= START MAIN BADGE ========= -->
 <p align="center" style="margin: 0;">
   <a href="https://stalwart-rolypoly-b74468.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img 
@@ -33,7 +32,7 @@
       alt="PPTX Strategic Presentation"
       style="height: 32px; width: auto; margin-right: 8px;"
     />
-  </a><a href="https://github.com/Quantum-Software-Development/4-cybersecurity-social-engineering-project-ai-risk-intelligence-financial-incidents-analytics/blob/5f4ae57543d61147d765d707852d85f616c09f1b/Data%20Analysing%20Report/%F0%9F%87%AC%F0%9F%87%A7data_analysis_report_abnt%20.pdf" target="_blank" rel="noopener noreferrer">
+  </a><a href="https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/cbd8f804a231a902a3590199e30d6a90153bf4d8/DATA_ANALYSING_REPORT/%F0%9F%87%A7%F0%9F%87%B7Portugues/Data%20Analysing%20Report%20-%20MCP%20Incidents.pdf" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Data%20Analysing-Executive%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
       alt="Data Analysing Executive Report"
@@ -41,7 +40,7 @@
     />
   </a>
 </p>
-<!-- ========= END BADGES ========= -->
+
 <!-- ========= END BADGES ========= -->
 
 
