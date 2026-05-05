@@ -12,7 +12,6 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
-
 <!-- ========= START SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
@@ -32,8 +31,7 @@
 <!-- =========  START PUC HEADER GIF ========= -->
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
+   <img src="
 
 
 <br><br>
