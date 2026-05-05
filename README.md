@@ -26,7 +26,7 @@
 
 <!-- ========= START SECONDARY BADGES ========= -->
 <p align="center" style="margin: 0;">
-  <a href="https://docs.google.com/presentation/d/1sgzuw0826E6xGrU9MUKSbU-BiJSKd8LN/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.google.com/presentation/d/1lbAfse10pa_k560jxd0nQEE_ISdIEweC/edit?slide=id.p1#slide=id.p1" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/PPTX-Strategic%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
       alt="PPTX Strategic Presentation"
