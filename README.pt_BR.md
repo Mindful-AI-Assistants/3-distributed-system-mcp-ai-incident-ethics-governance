@@ -7,58 +7,61 @@
 
 
 #  <p align="center"> 🕸️ [Distributed Systems]() / [Project](): [MCP Smart Incident Analyzer]()
-### <p align="center"> Comunicação Distribuída para IA com MCP (Model Context Protocol)
+### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol
+
 
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
 
 
 
-<!-- ========= START SPONSORT BADGE ========= -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+<!-- ========= START MAIN BADGE ========= -->
+<p align="center" style="margin: 0;">
+  <a href="https://stalwart-rolypoly-b74468.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/React%20Interactive-MCP%20Smart%20Incident%20Analyzer%20Presentation-0f172a?style=for-the-badge&logo=react&logoColor=white" 
+      alt="React Interactive – MCP Smart Incident Analyzer Presentation"
+      style="height: 38px; width: auto;"
+    />
+  </a>
+</p>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-<br><br>
-<!-- ========= END SPONSORTBADGE ========= -->
+<!-- ========= START SECONDARY BADGES ========= -->
+<p align="center" style="margin: 0;">
+  <a href="https://docs.google.com/presentation/d/1sgzuw0826E6xGrU9MUKSbU-BiJSKd8LN/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/PPTX-Strategic%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
+      alt="PPTX Strategic Presentation"
+      style="height: 32px; width: auto; margin-right: 8px;"
+    />
+  </a><a href="https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/cbd8f804a231a902a3590199e30d6a90153bf4d8/DATA_ANALYSING_REPORT/%F0%9F%87%A7%F0%9F%87%B7Portugues/Data%20Analysing%20Report%20-%20MCP%20Incidents.pdf" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Data%20Analysing-Executive%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
+      alt="Data Analysing Executive Report"
+      style="height: 32px; width: auto;"
+    />
+  </a>
+</p>
+
+<!-- ========= END BADGES ========= -->
 
 
-
-<!-- =========  START PUC HEADER GIF ========= -->
-
-
-<br><br>
-<!-- ========= END SPONSORT BADGE ========= -->
-
-
-<!-- =========  START PUC HEADER GIF ========= -->
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
-
-
-<br><br>
-<!-- =========  END PUC HEADER GIF ========= -->
-
-
-<!-- ========= START Institucional INFO ========= -->
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+<br><br><br><br>
+<!-- ========= END BADGE ========= -->
 
 <!-- ======================================= Start nstitucional INFO ===========================================  -->
 
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
 **Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
-**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()
+[**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
 
 
-
-
+<br><br>
 
 <!-- ========= END Institucional INFO ========= -->
 
@@ -66,6 +69,44 @@
 <br><br>
 
 
+
+
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br><br>
+<!-- ========= END SPONSORTBADGE ========= -->
+
+
+
+<!-- =========  START DEMO VIDEO ========= -->
+https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
+
+###### 🎶 Habanera -- Remix
+###### **Source:** Aria from the opera *Carmen*
+###### **Significance:** Among the most iconic and enduring pieces in operatic history
+
+> 🎶 *“L’amour est un oiseau rebelle que nul ne peut apprivoiser.”*
+
+#
+
+<p align="right">
+<sub><em>curated edit · Fab⚡️</em></sub>
+</p>
+
+
+<br><br>
+<!-- =========  END PUC DENO VIDEO ========= -->
+
+
+<!-- ========= START Institucional INFO ========= -->
+
+
+
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 <!-- ========= START Confidentiality statement ========= -->
 
@@ -84,20 +125,6 @@
 
 
 
-<!-- ========= START BADGES ========= -->
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in%20development-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/python-3.10+-14b8a6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/architecture-distributed-0d9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/protocol-MCP-2dd4bf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/focus-AI%20Incident%20Analysis-115e59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/documentation-Master%20README-14b8a6?style=for-the-badge" />
-</p>
-<br><br><br><br>
-<!-- ========= END START BADGES ========= -->
-
 
 <!-- ========= START Repo TIP ========= -->
 > [!TIP]
@@ -115,11 +142,7 @@
 ><br>
 >
 
-<br><br>
-
-#
-
-<br><br>
+<br><br><br><br>
 <!-- ========= END Repo TIP ========= 
 
 -------------🎥🎥🎥🎥🎥🎥🎥🎥
@@ -127,7 +150,7 @@
 <!-- ========= START DEMO Video  ========= -->
 
 
-<br><br><br><br>
+<!-- <br><br><br><br> ========= -->
 <!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
 
 
