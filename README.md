@@ -17,6 +17,8 @@
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
 <br><br>
 <!-- ========= END SPONSORTBADGE ========= -->
 
@@ -34,6 +36,15 @@
 
 https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
+##### 🎶  ## 🎶 Habanera
+
+**Original Title:** *L’amour est un oiseau rebelle*
+**Source:** Aria from the opera *Carmen*
+**Significance:** Widely regarded as one of the most iconic and recognizable pieces in operatic history
+
+> *“L’amour est un oiseau rebelle que nul ne peut apprivoiser.”*
+> — A timeless reflection on the untamable nature of love
+***Carmen Remix  by Fabi***  🖤
 
 <br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
