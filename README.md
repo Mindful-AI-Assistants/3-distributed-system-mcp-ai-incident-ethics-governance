@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 ## [Overview]()
 
-The **MCP Smart Incident Analyzer** is a distributed architecture project focused on the intelligent analysis of incidents related to **AI (Artificial Intelligence)** systems. The core of the proposal is the use of **MCP (Model Context Protocol)** as the foundation for structured communication among components, agents, and specialized services.
+The [**MCP Smart Incident Analyzer**]() is a distributed architecture project focused on the intelligent analysis of incidents related to **AI (Artificial Intelligence)** systems. The core of the proposal is the use of [**MCP (Model Context Protocol)**]() as the foundation for structured communication among components, agents, and specialized services.
 
 In practice, the system was designed to receive events, occurrences, failures, deviations, or unexpected behaviors in AI-based environments, organize this material as analytical context, and route it to specialized interpretation modules. The goal is to transform complex incidents into traceable, explainable, documentable, and auditable cases.
 
