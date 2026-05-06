@@ -134,8 +134,8 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 >
 > High-signal links for learning, building, and understanding modern AI systems.
 >
-> **📘 Core Reading**
-> - [*Inteligência Artificia A Modern Approachl (Peter Norvig, Stuart Russell*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
+> **📘 Core [**Artificial Intelligence: A Modern Approach** *(Peter Norvig, Stuart Russell)*
+*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
 >
 > 
 > <br>
