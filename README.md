@@ -5,7 +5,7 @@
 
 
 #  <p align="center"> 🕸️ [Distributed Systems]() / [Project](): [MCP Smart Incident Analyzer]()
-### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol
+### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol)
 
 
 <br><br>
