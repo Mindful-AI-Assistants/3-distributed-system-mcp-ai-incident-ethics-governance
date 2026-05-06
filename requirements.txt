@@ -12,4 +12,4 @@ flake8>=6.1.0
 mypy>=1.5.0
 
 # Para testes de conectividade e debugging
-ipython>=8.14.0
+ipython>=9.13.0
