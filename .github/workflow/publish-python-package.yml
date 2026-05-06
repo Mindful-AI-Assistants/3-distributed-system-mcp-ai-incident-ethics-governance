@@ -18,9 +18,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@42375524fcd98d6d6f6fcb9d6a0f2d8e9d1e8b4a # v5
         with:
           python-version: '3.10'
       - name: Install dependencies
