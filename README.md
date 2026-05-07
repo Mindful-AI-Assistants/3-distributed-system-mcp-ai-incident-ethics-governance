@@ -51,7 +51,7 @@
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
 **Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
 **Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
 
