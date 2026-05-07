@@ -91,17 +91,9 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 
 <br><br>
-<!-- =========  END PUC DENO VIDEO ========= -->
 
 
-<!-- ========= START Institucional INFO ========= -->
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<!-- ========= START Confidentiality statement ========= -->
-
+<!-- ======================================= START Confidentiality statement ===========================================  -->
 > [!NOTE]
 > 
 > ⚠️ Heads Up
@@ -118,8 +110,6 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 <br><br>
 <!-- ========= End Confidentiality statement ========= -->
-
-
 
 
 <!-- ========= START Repo TIP ========= -->
@@ -141,13 +131,6 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 
 <br><br><br><br>
 <!-- ========= END Repo TIP ========= 
-
--------------🎥🎥🎥🎥🎥🎥🎥🎥
-
-<!-- ========= START DEMO Video  ========= -->
-
-
-<!-- <br><br><br><br> ========= -->
 <!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
 
 
