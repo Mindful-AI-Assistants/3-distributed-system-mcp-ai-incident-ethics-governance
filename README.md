@@ -89,74 +89,22 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 <sub><em>curated edit · Fab⚡️</em></sub>
 </p>
 
-
 <br><br>
 
 
-<!-- ======================================= START Confidentiality statement ===========================================  -->
+
+<!-- ========= START NOTE ========= -->
 > [!NOTE]
-> 
-> ⚠️ Heads Up
 >
-> * Projects may be made [publicly available]() whenever possible  
-> * Focus on **hands-on experience** with real datasets  
-> * Activities follow [**PUC-SP academic and ethical guidelines**]()  
-> * Restricted content remains **confidential**  
-> <br>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
 
 <br><br>
+<!-- ========= END NOTE ========= -->
 
-#
-
-<br><br>
-<!-- ========= End Confidentiality statement ========= -->
-
-
-<!-- ========= START Main Repo REFERENCE  ========= -->
-> [!TIP]
->
-> ## 🕸️ Distributed Systems – Specialized Consulting to Support the Integrated Project 
-> 
->
-> This repository is part of a broader academic and technical ecosystem dedicated to  Distributed Systems – Specialized Consulting to Support the Integrated Project , and Human-Centered Technology.
->
-> Explore the central repository containing:
->
-> 🔗 **[Access  Distributed Systems – Specialized Consulting to Support the Integrated Project -  Main Hub](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Main-Hub)
->
-> #
->
-> ✨ Part of the *Humanistic AI & Data Modeling Series*  
-> Integrating cybersecurity, artificial intelligence, data science, and human insight through applied research and interactive systems. ⚡
-> 
-
-<br><br><br><br>
-<!-- ========= END Main Repo REFERENCE  ========= -->
-<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
-
-
-<!-- ========= START Repo TIP ========= -->
-> [!TIP]
-> ### 🚀 AI Resources
->
-> High-signal links for learning, building, and understanding modern AI systems.
->
-> **📘 Core Reading**
-> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig, Stuart Russell)*
-*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
->
-> 
-> <br>
-> _Signal > noise._
-> <br>
-><br>
->
-
-<br><br><br><br>
-<!-- ========= END Repo TIP ========= 
-<!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
-
-
+<!-- ========= START OVERVIEW ========= -->
 ## [Overview]()
 
 The [**MCP Smart Incident Analyzer**]() is a distributed architecture project focused on the intelligent analysis of incidents related to **AI (Artificial Intelligence)** systems. The core of the proposal is the use of [**MCP (Model Context Protocol)**]() as the foundation for structured communication among components, agents, and specialized services.
@@ -165,6 +113,54 @@ In practice, the system was designed to receive events, occurrences, failures, d
 
 
 <br><br>
+
+#
+
+<br><br>
+<!-- ========= END Overview ========= -->
+
+
+<!-- ========= START Main Repo REFERENCE  ========= -->
+> [!TIP]
+>
+> ## 🕸️ Distributed Systems — Integrated Project Consulting Hub
+>
+> This repository is part of a broader academic and technical ecosystem focused on Distributed Systems, Scalable Architectures, Artificial Intelligence, and Human-Centered Technology.
+>
+> The project explores distributed communication, interoperability, scalability, and modern computational infrastructures applied to intelligent systems and academic research.
+>
+> Explore the central hub containing complementary materials, technical documentation, analyses, and related projects:
+>
+> 🔗 **[Access the Distributed Systems Main Hub](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Main-Hub)**
+>
+> #
+>
+> ✨ Part of the *Humanistic AI & Data Modeling Series*  
+> Connecting distributed systems, artificial intelligence, cybersecurity, and human insight through scalable and interconnected technologies. ⚡
+>
+> *In distributed systems, even the problems refuse to stay centralized.* 🕸️
+>
+> #
+>
+> ### 🤖 AI Resources
+>
+> High-signal resources for learning, building, and understanding modern AI systems.
+>
+> **📘 Core Reading**
+>
+> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
+>
+> <br>
+>
+> _Signal > noise. Distributed thinking > centralized chaos._ ⚡
+
+<br><br><br><br>
+<!-- ========= END Main Repo REFERENCE  ========= -->
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
+
+
+
+
 
 ## Table of Contents
 
