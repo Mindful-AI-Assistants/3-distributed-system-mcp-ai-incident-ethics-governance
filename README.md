@@ -135,8 +135,9 @@ In practice, the system was designed to receive events, occurrences, failures, d
 >
 > #
 >
-> ✨ Part of the *Humanistic AI & Data Modeling Series*  
-> Connecting distributed systems, artificial intelligence, cybersecurity, and human insight through scalable and interconnected technologies. ⚡
+> ✨ Part of the *Humanistic AI & Data Modeling Series*
+> 
+> ***Connecting distributed systems, artificial intelligence, cybersecurity, and human insight through scalable and interconnected technologies***. ⚡
 >
 > *In distributed systems, even the problems refuse to stay centralized.* 🕸️
 >
