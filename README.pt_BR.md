@@ -102,14 +102,7 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 <!-- =========  END PUC DENO VIDEO ========= -->
 
 
-<!-- ========= START Institucional INFO ========= -->
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<!-- ========= START Confidentiality statement ========= -->
-
+<!-- ========= START NOTEt ========= -->
 > [!NOTE]
 > 
 > ⚠️ Heads Up
