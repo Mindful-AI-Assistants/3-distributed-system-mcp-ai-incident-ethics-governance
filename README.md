@@ -41,31 +41,27 @@
   </a>
 </p>
 
-<!-- ========= END BADGES ========= -->
-
 
 <br><br><br><br>
-<!-- ========= END BADGE ========= -->
+<!-- ========= END MAIUN BADGE ========= -->
+
 
 <!-- ======================================= Start nstitucional INFO ===========================================  -->
-
-<!-- ========= START SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 128 Hours <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
 **Professor:**  [⭐️ Carlos Eduardo Paes]()  <br>
-[**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
+**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>
 
 
 <br><br>
 
+#
+
+<br><br>
 <!-- ========= END Institucional INFO ========= -->
-
-
-<br><br>
-
 
 
 
@@ -74,10 +70,8 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-
 <br><br>
 <!-- ========= END SPONSORTBADGE ========= -->
-
 
 
 <!-- =========  START DEMO VIDEO ========= -->
@@ -95,68 +89,22 @@ https://github.com/user-attachments/assets/b6c59c99-00a4-4545-b0ed-c8b262cd4709
 <sub><em>curated edit · Fab⚡️</em></sub>
 </p>
 
-
 <br><br>
-<!-- =========  END PUC DENO VIDEO ========= -->
-
-
-<!-- ========= START Institucional INFO ========= -->
 
 
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<!-- ========= START Confidentiality statement ========= -->
-
+<!-- ========= START NOTE ========= -->
 > [!NOTE]
-> 
-> ⚠️ Heads Up
 >
-> * Projects may be made [publicly available]() whenever possible  
-> * Focus on **hands-on experience** with real datasets  
-> * Activities follow [**PUC-SP academic and ethical guidelines**]()  
-> * Restricted content remains **confidential**  
-> <br>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
 
 <br><br>
+<!-- ========= END NOTE ========= -->
 
-#
-
-<br><br>
-<!-- ========= End Confidentiality statement ========= -->
-
-
-
-
-<!-- ========= START Repo TIP ========= -->
-> [!TIP]
-> ### 🚀 AI Resources
->
-> High-signal links for learning, building, and understanding modern AI systems.
->
-> **📘 Core Reading**
-> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig, Stuart Russell)*
-*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
->
-> 
-> <br>
-> _Signal > noise._
-> <br>
-><br>
->
-
-<br><br><br><br>
-<!-- ========= END Repo TIP ========= 
-
--------------🎥🎥🎥🎥🎥🎥🎥🎥
-
-<!-- ========= START DEMO Video  ========= -->
-
-
-<!-- <br><br><br><br> ========= -->
-<!-- ========= END Video building-llms-yann-dubois-stanford-cs229-2024 ========= -->
-
-
+<!-- ========= START OVERVIEW ========= -->
 ## [Overview]()
 
 The [**MCP Smart Incident Analyzer**]() is a distributed architecture project focused on the intelligent analysis of incidents related to **AI (Artificial Intelligence)** systems. The core of the proposal is the use of [**MCP (Model Context Protocol)**]() as the foundation for structured communication among components, agents, and specialized services.
@@ -165,6 +113,53 @@ In practice, the system was designed to receive events, occurrences, failures, d
 
 
 <br><br>
+
+#
+
+<br><br>
+<!-- ========= END Overview ========= -->
+
+
+<!-- ========= START Main Repo REFERENCE  ========= -->
+> [!TIP]
+>
+> ## 🕸️ Distributed Systems — Integrated Project Consulting Hub
+>
+> This repository is part of a broader academic and technical ecosystem focused on Distributed Systems, Scalable Architectures, Artificial Intelligence, and Human-Centered Technology.
+>
+> The project explores distributed communication, interoperability, scalability, and modern computational infrastructures applied to intelligent systems and academic research.
+>
+> Explore the central hub containing complementary materials, technical documentation, analyses, and related projects:
+>
+> 🔗 **[Access the Distributed Systems Hub](https://github.com/Quantum-Software-Development/1-Distributed-Systems-Operating-Systems-Hub)**
+>
+> #
+>
+> ✨ Part of the *Humanistic AI & Data Modeling Series*
+> 
+> *Connecting distributed systems, artificial intelligence, cybersecurity, and human insight through scalable and interconnected technologies*. ⚡
+>
+> ***In distributed systems, even the problems refuse to stay centralized.*** 🕸️
+>
+> #
+>
+> ### 🤖 AI Resources
+>
+> High-signal resources for learning, building, and understanding modern AI systems.
+>
+> **📘 Core Reading**
+>
+> - [**Artificial Intelligence: A Modern Approach** *(Peter Norvig & Stuart Russell)*](https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/90f1da40fa7a5a4887c49b9471f15744c7d132a4/Intelige%CC%82ncia%20Artificia%20A%20Modern%20Approachl%20(Peter%20Norvig%2C%20Stuart%20Russell)%20.pdf)
+>
+
+
+<br><br><br><br>
+<!-- ========= END Main Repo REFERENCE  ========= -->
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
+
+
+
+
 
 ## Table of Contents
 
@@ -191,6 +186,11 @@ In practice, the system was designed to receive events, occurrences, failures, d
 - [21. Expected Interface Preview](#21-expected-interface-preview)
 - [22. License](#22-license)
 - [23. Conclusion](#23-conclusion)
+
+
+<br><br>
+
+🚧 Project Under Construction 🚧
 
 
 <br><br>
