@@ -1,15 +1,49 @@
-# MCP Smart Incident Analyzer - Dependências
-# Python 3.10+
 
-# Dependências principais (bibliotecas padrão estão incluídas no Python)
-# Este projeto usa principalmente bibliotecas padrão: asyncio, json, logging
+# ============================================================
+# MCP Smart Incident Analyzer - Requirements
+# ============================================================
+# Python Version:
+#   Python 3.10+
+#
+# Core Dependencies:
+#   This project primarily relies on Python standard libraries:
+#   - asyncio
+#   - json
+#   - logging
+#
+# No mandatory external runtime dependencies are required.
+# The packages below are intended for development, testing,
+# code quality, and debugging.
+# ============================================================
+
+
 
 # Dependências opcionais para desenvolvimento e testes
 pytest>=7.4.0
 pytest-asyncio>=1.4.0
+
+# ------------------------------------------------------------
+# Testing
+# ------------------------------------------------------------
+pytest>=8.0.0
+pytest-asyncio>=1.4.0
+
+
+# ------------------------------------------------------------
+# Code Formatting & Style
+
 black>=26.5.1
 flake8>=7.3.0
-mypy>=2.1.0
 
-# Para testes de conectividade e debugging
+
+# ------------------------------------------------------------
+# Static Type Checking
+# ------------------------------------------------------------
+mypy>=1.16.0
+
+
+# ------------------------------------------------------------
+# Interactive Debugging & Development
+# ------------------------------------------------------------
 ipython>=9.14.0
+
