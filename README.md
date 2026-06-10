@@ -4,13 +4,20 @@
 
 
 
-#  <p align="center"> 🕸️ [Distributed Systems]() / [Project](): [MCP Smart Incident Analyzer]()
+#  <p align="center"> 🕸️  [Project 3 - Distributed Systems]() - [MCP Smart Incident Analyzer · Distributed AI incident Analysis for Governance, Responsible AI and Ethics
 ### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol)
-
 
 <br><br>
 <!-- ========= END REPO TITLE ========= -->
 
+
+<!-- ========= Start Overview ========= -->
+## [Overview]()
+
+This project is designed as a governance and Responsible AI layer, focused on the structured monitoring, analysis and documentation of AI incidents to support transparency, accountability and ethical decision-making.
+
+<br><br>
+<!-- ========= END Overview ========= -->
 
 
 <!-- ========= START MAIN BADGE ========= -->
